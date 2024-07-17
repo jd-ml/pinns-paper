@@ -1,6 +1,6 @@
 # Abstract
-Approximating solutions to the complex mathematical equations that underpin our physi-
-cal systems is an incredibly energy-intensive process. Finding solutions to these equations
+Approximating solutions to the complex mathematical equations that underpin our physical
+systems is an incredibly energy-intensive process. Finding solutions to these equations
 becomes increasingly difficult as dimensionality increases and data becomes more sparse,
 with the scientific community turning to machine learning (ML) methods to try and alle-
 viate these issues. Approximations of Ordinary Differential Equations (ODEs) and Partial
